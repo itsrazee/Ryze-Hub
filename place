@@ -1,5 +1,0 @@
-if game.PlaceId == 3237168 then
-	loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsrazee/Ryze-Hub/refs/heads/main/key'),true))()
-else
-	game.Players.LocalPlayer:Kick('Ryze Hub does not support this game')
-end
